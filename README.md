@@ -1,8 +1,6 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=140&color=8DB600&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0)
 <h1 align="center">Olá! Eu sou o Mateus! 🍋‍🟩 </h1>
 
-###
-
 <div align="center">
 <table>
 <tr>
@@ -20,8 +18,6 @@ Apaixonado por música e futebol! Construindo projetos, explorando conceitos e c
   <img src="https://streak-stats.demolab.com?user=mjrd05&theme=merko" height="220" alt="streak graph"  />
 </div>
 
----
-
 #   Conecte-se comigo
 
 <div align="left">
@@ -34,17 +30,14 @@ Apaixonado por música e futebol! Construindo projetos, explorando conceitos e c
 </div>
 
 </td>
-
 <td width="50%" valign="top">
 
 #   Tecnologias & Ferramentas
 
 <div align="left">
-
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="35" />
 <img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"" height="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="35" />
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
 <img width="10" />
@@ -63,23 +56,17 @@ Apaixonado por música e futebol! Construindo projetos, explorando conceitos e c
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" />
-
 </div>
-
----
 
 #   Certificações
 
 <a href="https://www.credly.com/badges/807a845f-f960-450b-b84c-d5658c34b20a/public_url" target="_blank">
   <img src="https://images.credly.com/size/340x340/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" height="100"/>
 </a>
-
 <a href="https://www.credly.com/badges/2dc72059-f76e-455e-928d-b7f93ac755ad/public_url" target="_blank">
   <img src="https://images.credly.com/size/340x340/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png" height="105"/>
 </a>
 
-
-</div>
 </td>
 </tr>
 </table>
